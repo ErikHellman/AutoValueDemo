@@ -1,0 +1,9 @@
+{
+  "id": 12345,
+  "name": "The name",
+  "timestamp": "2016-08-23 15:24:00",
+  "price": {
+    "amount": 15200,
+    "currency": "SEK"
+  }
+}
